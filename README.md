@@ -62,3 +62,6 @@ High accuracy with mAP > 0.85.
 Confusion matrix highlights class-specific errors.
 
 Annotated predictions saved in outputs/ folder.
+
+##dashboard public app is created 
+The Helmet Detection Dashboard is an interactive web app that allows users to upload images and automatically detect riders wearing or not wearing helmets. It visually marks helmeted riders with green boxes and violations with red boxes for easy identification. The dashboard can be run online from Colab, providing a real-time, user-friendly interface for traffic safety monitoring.
