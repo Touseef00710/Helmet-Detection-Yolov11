@@ -121,15 +121,6 @@ Email: touseef.ahmed@example.com
 
 LinkedIn: Touseef Ahmed
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check issues page.
-
-🙏 Acknowledgments
-Ultralytics for YOLOv11 implementation
-
 Roboflow for the helmet detection dataset
 
 Streamlit for the dashboard framework
